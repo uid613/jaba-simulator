@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/jaba-simulator/static/js/main.dd8b1ff1.chunk.js",
-    "main.js.map": "/jaba-simulator/static/js/main.dd8b1ff1.chunk.js.map",
+    "main.js": "/jaba-simulator/static/js/main.6124a287.chunk.js",
+    "main.js.map": "/jaba-simulator/static/js/main.6124a287.chunk.js.map",
     "runtime-main.js": "/jaba-simulator/static/js/runtime-main.c55898bc.js",
     "runtime-main.js.map": "/jaba-simulator/static/js/runtime-main.c55898bc.js.map",
     "static/css/2.b318b159.chunk.css": "/jaba-simulator/static/css/2.b318b159.chunk.css",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.c55898bc.js",
     "static/css/2.b318b159.chunk.css",
     "static/js/2.8e3c695f.chunk.js",
-    "static/js/main.dd8b1ff1.chunk.js"
+    "static/js/main.6124a287.chunk.js"
   ]
 }
